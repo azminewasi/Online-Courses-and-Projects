@@ -1,7 +1,7 @@
 # Projects-from-Online-Courses
 All my online course Projects
 
->> ANZ@Data Virtual Internship - Forage
->> CommonWalth Bank - Career in Tech - Virtual Internship - Forage
->> HarvardX PH526x - Python for Research - EdX
+1. ANZ@Data Virtual Internship - Forage
+2. CommonWalth Bank - Career in Tech - Virtual Internship - Forage
+3. HarvardX PH526x - Python for Research - EdX
 
