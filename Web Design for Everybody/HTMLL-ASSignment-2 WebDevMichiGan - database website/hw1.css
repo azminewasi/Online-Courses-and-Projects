@@ -1,0 +1,25 @@
+header {
+  background-color: #787276;
+}
+h1 {
+  color : #FFFFFF;
+  text-align: center;
+}
+nav  {
+  text-align: center;
+}
+a {
+  color : #222021;
+  background-color: #97978F;
+}
+
+aside {
+  display: none;
+  visibility: hidden;
+}
+h2 {
+  color: #3600FF ;
+}
+section {
+  background-color: #D6CFC7 ;
+} 
