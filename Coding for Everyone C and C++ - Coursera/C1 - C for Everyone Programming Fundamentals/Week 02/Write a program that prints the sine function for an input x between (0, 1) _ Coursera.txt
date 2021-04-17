@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+    /* Define temporary variables */
+    double value, valuex;
+    double result;
+
+    /* Assign the value we will find the sin of */
+    scanf("%lf",&value);
+    value_to_calculate=(3.1416/180)*value;
+
+    /* Calculate the Sine of value */
+    result = sin(value_to_calculate);
+
+    /* Display the result of the calculation */
+    printf("The Sine of %f is %f\n", value, result);
+
+    return 0;
+}
