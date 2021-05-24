@@ -74,3 +74,5 @@ movies
 
 movies[["length"]] <- NULL
 movies
+
+ls<-NULL
