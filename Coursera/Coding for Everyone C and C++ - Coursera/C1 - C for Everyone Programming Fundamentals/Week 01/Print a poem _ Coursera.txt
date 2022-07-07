@@ -1,6 +1,0 @@
-#include<stdio.h>
-int main(void)
-{   
-    printf(" Soon as early Dawn appeared, the rosy-fingered,\n up from his bed arose the dear son of Odysseus \nand put on his clothing.\n\n About his shoulder he slung his sharp sword, \nand beneath his shining feet bound his fair sandals, \n and went forth from his chamber like a god to look upon.\n");
-    return 0;
-}    
